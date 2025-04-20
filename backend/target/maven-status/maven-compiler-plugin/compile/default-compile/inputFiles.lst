@@ -1,0 +1,9 @@
+C:\Users\15ETEN\projet\chatapp\backend\src\main\java\com\example\chatapp\ChatappApplication.java
+C:\Users\15ETEN\projet\chatapp\backend\src\main\java\com\example\chatapp\config\JwtUtils.java
+C:\Users\15ETEN\projet\chatapp\backend\src\main\java\com\example\chatapp\config\SecurityConfig.java
+C:\Users\15ETEN\projet\chatapp\backend\src\main\java\com\example\chatapp\config\WebSocketConfig.java
+C:\Users\15ETEN\projet\chatapp\backend\src\main\java\com\example\chatapp\controller\AuthController.java
+C:\Users\15ETEN\projet\chatapp\backend\src\main\java\com\example\chatapp\controller\MessageController.java
+C:\Users\15ETEN\projet\chatapp\backend\src\main\java\com\example\chatapp\entity\Message.java
+C:\Users\15ETEN\projet\chatapp\backend\src\main\java\com\example\chatapp\entity\User.java
+C:\Users\15ETEN\projet\chatapp\backend\src\main\java\com\example\chatapp\repository\UserRepository.java
